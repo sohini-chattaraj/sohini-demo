@@ -40,17 +40,4 @@ The objective of this Artificial Intelligence Laboratory is to provide hands-on 
 
 ---
 
-## 👩‍💻 Author
-
-**Sohini Chattraj**  
-B.Tech CSE | KIIT University  
-[GitHub Profile](https://github.com/yourusername)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. You are free to use and adapt the code with proper credit.
-
----
 
